@@ -10,7 +10,7 @@ Este repositório contém os links para os 7 projetos desenvolvidos na disciplin
 
 [Projeto HTML 3](https://akarinela.github.io/PaginadeReceitas/)
 
-[Projeto HTML 4](
+[Projeto HTML 4](https://akarinela.github.io/SitePessoal/)
 
 [Projeto HTML 5](https://akarinela.github.io/TabeladeNotas/)
 
